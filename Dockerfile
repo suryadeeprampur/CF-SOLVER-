@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 oven/bun:1
+FROM oven/bun:1
 
 RUN apt-get update && apt-get install -y --fix-missing \
     wget \
