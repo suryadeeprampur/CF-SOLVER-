@@ -132,5 +132,5 @@ Check the benchmark image above. We consistently outperform standard tools by **
 > [!TIP]
 > **STAY UPDATED**
 > New bypass methods are pushed regularly.
-> 🔗 **Channel:** [ReX Updates](https://t.me/ReX_update)
+> 🔗 **Channel:** [RDX PVT BOT](https://t.me/RDX_PVT_BOT)
 
